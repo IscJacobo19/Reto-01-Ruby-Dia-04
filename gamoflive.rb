@@ -1,4 +1,4 @@
-#require 'rspec/autorun'
+require 'rspec/autorun'
 require_relative 'cell.rb'
 
 puts "Dame el tamaño del tablero: "
